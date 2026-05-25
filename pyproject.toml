@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lcsar-code"
+version = "0.1.0"
+description = "Core RWS and LCSAR routines for the LCSAR manuscript."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "numpy>=1.23",
+  "scipy>=1.9"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
