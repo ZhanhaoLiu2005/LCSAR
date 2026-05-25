@@ -31,7 +31,3 @@ python src/examples/run_core_demo.py
 ```
 
 The demo simulates an SBM network, constructs an RWS-based spatial weight matrix, generates a SAR response from the oracle community weights, and fits the LCSAR least-squares estimator.
-
-## Notes
-
-This first release contains the core RWS and LCSAR code only. Manuscript figure/table reproduction scripts are not included in this repository version.
