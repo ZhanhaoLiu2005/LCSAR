@@ -2,7 +2,7 @@
 
 Core code for the manuscript:
 
-**LCSAR: A Local Community Enhanced Spatial Autoregressive Model for Analyzing Birth Outcomes**
+**Beyond Direct Neighbors: Local Community-Aware Spatial Autoregression via Random Walk with Sweeping**
 
 This repository is organized as a compact methods-code release. Core algorithms and the minimal example are both kept under `src`.
 
